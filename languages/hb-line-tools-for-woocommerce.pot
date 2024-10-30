@@ -1,0 +1,238 @@
+# Copyright (C) 2022 heiblack
+# This file is distributed under the GPL 3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: HB Line Tools for WooCommerce 0.5.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hb-line-tools-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-08-01T00:10:21+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: hb-line-tools-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "HB Line Tools for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://piglet.me/hb-line-tools-for-woocommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "A Simple LINE Send Plugin."
+msgstr ""
+
+#. Author of the plugin
+msgid "heiblack"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://piglet.me"
+msgstr ""
+
+#: hb-line-tools-for-woocommerce.php:111
+msgid "Line Message"
+msgstr ""
+
+#: hb-line-tools-for-woocommerce.php:121
+#: hb-line-tools-for-woocommerce.php:129
+msgid "Unable to get the customer's Line id or the customer is not a Line user"
+msgstr ""
+
+#: hb-line-tools-for-woocommerce.php:163
+#: hb-line-tools-for-woocommerce.php:164
+msgid "State event"
+msgstr ""
+
+#: hb-line-tools-for-woocommerce.php:172
+#: hb-line-tools-for-woocommerce.php:173
+msgid "New order event"
+msgstr ""
+
+#: hb-line-tools-for-woocommerce.php:190
+#: hb-line-tools-for-woocommerce.php:191
+msgid "Basic settings"
+msgstr ""
+
+#: page/HB-LineAdminPage.php:18
+msgid "Setting"
+msgstr ""
+
+#: page/HB-LineAdminPage.php:19
+msgid "All Required"
+msgstr ""
+
+#: page/HB-LineAdminPage.php:43
+msgid "Send Test"
+msgstr ""
+
+#: page/HB-LineBotEventPage.php:21
+#: page/HB-NewOrderEventPage.php:18
+#: page/HB-OrderStatusesEventPage.php:21
+msgid "Order Number"
+msgstr ""
+
+#: page/HB-LineBotEventPage.php:22
+#: page/HB-NewOrderEventPage.php:19
+#: page/HB-OrderStatusesEventPage.php:22
+msgid "Order Customer Nickname"
+msgstr ""
+
+#: page/HB-LineBotEventPage.php:23
+#: page/HB-NewOrderEventPage.php:20
+#: page/HB-OrderStatusesEventPage.php:23
+msgid "Total Order Price"
+msgstr ""
+
+#: page/HB-LineBotEventPage.php:24
+msgid "Order Status"
+msgstr ""
+
+#: page/HB-LineBotEventPage.php:29
+#: page/HB-NewOrderEventPage.php:28
+#: page/HB-OrderStatusesEventPage.php:31
+msgid "Enable"
+msgstr ""
+
+#: page/HB-LineBotEventPage.php:36
+msgid "When the user enters make an order query :"
+msgstr ""
+
+#: page/HB-LineBotEventPage.php:38
+msgid "Orders allowed for inquiries :"
+msgstr ""
+
+#: page/HB-LineBotEventPage.php:48
+msgid "Title Text:"
+msgstr ""
+
+#: page/HB-LineBotEventPage.php:52
+msgid "Picture:"
+msgstr ""
+
+#: page/HB-LineBotEventPage.php:56
+msgid "Text:"
+msgstr ""
+
+#: page/HB-LineBotEventPage.php:60
+msgid "Button Text:"
+msgstr ""
+
+#: page/HB-LineBotEventPage.php:62
+msgid "Link:"
+msgstr ""
+
+#: page/HB-LineBotEventPage.php:66
+msgid "When there is no matching order status :"
+msgstr ""
+
+#: page/HB-LineBotEventPage.php:70
+msgid "Not Line member :"
+msgstr ""
+
+#: page/HB-LineBotEventPage.php:77
+#: page/HB-NewOrderEventPage.php:64
+msgid "Save"
+msgstr ""
+
+#: page/HB-NewOrderEventPage.php:15
+msgid "New Order Event"
+msgstr ""
+
+#: page/HB-NewOrderEventPage.php:21
+#: page/HB-OrderStatusesEventPage.php:24
+msgid "Order Payment Method"
+msgstr ""
+
+#: page/HB-NewOrderEventPage.php:31
+#: page/HB-OrderStatusesEventPage.php:44
+msgid "Word"
+msgstr ""
+
+#: page/HB-NewOrderEventPage.php:32
+#: page/HB-NewOrderEventPage.php:43
+#: page/HB-OrderStatusesEventPage.php:45
+msgid "Picture"
+msgstr ""
+
+#: page/HB-NewOrderEventPage.php:33
+#: page/HB-OrderStatusesEventPage.php:46
+msgid "Template"
+msgstr ""
+
+#: page/HB-NewOrderEventPage.php:41
+msgid "Title Text"
+msgstr ""
+
+#: page/HB-NewOrderEventPage.php:45
+msgid "Text"
+msgstr ""
+
+#: page/HB-NewOrderEventPage.php:47
+#: page/HB-OrderStatusesEventPage.php:60
+msgid "Button"
+msgstr ""
+
+#: page/HB-NewOrderEventPage.php:49
+msgid "Button Text"
+msgstr ""
+
+#: page/HB-NewOrderEventPage.php:51
+msgid "Link"
+msgstr ""
+
+#: page/HB-NewOrderEventPage.php:57
+msgid "Delete"
+msgstr ""
+
+#: page/HB-NewOrderEventPage.php:66
+msgid "Add"
+msgstr ""
+
+#: page/HB-OrderStatusesEventPage.php:18
+msgid "Order Event"
+msgstr ""
+
+#: page/HB-OrderStatusesEventPage.php:33
+msgid "When the order is changed to"
+msgstr ""
+
+#: page/HB-OrderStatusesEventPage.php:40
+msgid "send message"
+msgstr ""
+
+#: page/HB-OrderStatusesEventPage.php:53
+msgid "Title Text "
+msgstr ""
+
+#: page/HB-OrderStatusesEventPage.php:55
+msgid "Picture "
+msgstr ""
+
+#: page/HB-OrderStatusesEventPage.php:57
+msgid "Text "
+msgstr ""
+
+#: page/HB-OrderStatusesEventPage.php:61
+msgid "Button Text "
+msgstr ""
+
+#: page/HB-OrderStatusesEventPage.php:63
+msgid "Link "
+msgstr ""
+
+#: page/HB-OrderStatusesEventPage.php:69
+msgid "Delete "
+msgstr ""
+
+#: page/HB-OrderStatusesEventPage.php:76
+msgid "Save "
+msgstr ""
+
+#: page/HB-OrderStatusesEventPage.php:78
+msgid "Add "
+msgstr ""
